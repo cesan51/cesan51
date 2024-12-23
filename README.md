@@ -48,7 +48,7 @@ Desarrollador web e Ingeniero de Sistemas. Actualmente formo parte del equipo de
 - Proyectos de emprendimiento I.E. Eleazar Libreros Salamanca
 - [Ver Proyecto](https://emprendimientoels.surge.sh/)
 
-### Clasificador de Perros y Gatos con IA
+### Clasificador
 - Red neuronal convolucional en Python
 - Clasificación mediante video en vivo
 - [Ver Proyecto](https://iacesan51.surge.sh)
