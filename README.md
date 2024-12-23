@@ -22,7 +22,7 @@ Desarrollador web e Ingeniero de Sistemas. Actualmente formo parte del equipo de
 ## Experiencia Profesional 💼
 
 ### Infinity Software Innovation SAS
-<img src="assets/Infinity.jpg" width="200">
+<img src="https://raw.githubusercontent.com/cesan51/portafolio_cesan51/refs/heads/main/assets/Infinity.jpg" width="200">
 - Rol: Ingeniero de Soporte y Desarrollo
 - [Sitio Web](https://infinitysof.com/)
 
