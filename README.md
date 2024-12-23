@@ -22,19 +22,21 @@ Desarrollador web e Ingeniero de Sistemas. Actualmente formo parte del equipo de
 
 ## Experiencia Profesional 💼
 
-| ### Infinity Software Innovation SAS
-<div style="width: 200px; border-radius: 50%; overflow: hidden;">
+### Infinity Software Innovation SAS
+| <div style="width: 200px; border-radius: 50%; overflow: hidden;">
   <img src="https://raw.githubusercontent.com/cesan51/portafolio_cesan51/refs/heads/main/assets/Infinity.jpg" width="200">
 </div>
 - Rol: Ingeniero de Soporte y Desarrollo
-- [Sitio Web](https://infinitysof.com/) | ### ARSOFT
-<div style="width: 200px; border-radius: 50%; overflow: hidden;">
+- [Sitio Web](https://infinitysof.com/) | 
+|---|
+### ARSOFT
+| <div style="width: 200px; border-radius: 50%; overflow: hidden;">
   <img src="https://raw.githubusercontent.com/cesan51/portafolio_cesan51/refs/heads/main/assets/arsoft.png" width="200">
 </div>
 - Proyecto: Sistema de Régimen Subsidiado
 - Enfoque: Administración de recursos financieros
 - Áreas: Soporte y Actualizaciones |
-  |---|---|
+  |---|
 
 
 ## Proyectos Destacados 🚀
