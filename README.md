@@ -4,26 +4,20 @@
 Desarrollador web e Ingeniero de Sistemas. Actualmente formo parte del equipo de desarrollo y soporte de Infinity Software Innovation SAS. También creo sitios y páginas web para clientes propios, ofreciendo soluciones personalizadas que se adaptan a las necesidades específicas de cada proyecto.
 
 ## Habilidades Técnicas 🛠️
-- **Lenguajes**: 
-  | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) |
-  | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-  | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
-  |  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+- **Lenguajes**:  
+  | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
   |---|---|---|---|
-  
-- **Frameworks**: 
-  | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) |
-  | ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) |
-  | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) |
+
+- **Frameworks**:  
+  | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) | ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) |
   |---|---|---|
-  
-- **Herramientas**: 
+
+- **Herramientas**:  
   | ![Scriptcase](https://img.shields.io/badge/-Scriptcase-4479A1?style=flat&logoColor=white) |
   |---|
-  
-- **Sistemas Operativos**: 
-  | ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white) |
-  | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+
+- **Sistemas Operativos**:  
+  | ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) |
   |---|---|
 
 ## Experiencia Profesional 💼
@@ -34,6 +28,7 @@ Desarrollador web e Ingeniero de Sistemas. Actualmente formo parte del equipo de
 - [Sitio Web](https://infinitysof.com/)
 
 ### ARSOFT
+<img src="https://raw.githubusercontent.com/cesan51/portafolio_cesan51/refs/heads/main/assets/Infinity.jpg" width="200" style="border-radius: 50%;">
 <img src="assets/arsoft.png" width="200">
 - Proyecto: Sistema de Régimen Subsidiado
 - Enfoque: Administración de recursos financieros
@@ -42,12 +37,11 @@ Desarrollador web e Ingeniero de Sistemas. Actualmente formo parte del equipo de
 ## Proyectos Destacados 🚀
 
 ### Plataforma de Proyectos Educativos IEELS
-<img src="https://raw.githubusercontent.com/cesan51/portafolio_cesan51/refs/heads/main/assets/emprender.jpg" width="200" width="200" style="border-radius: 50%;">
+<img src="https://raw.githubusercontent.com/cesan51/portafolio_cesan51/refs/heads/main/assets/emprender.jpg" width="200" width="200" style="border-radius: 50;">
 - Proyectos de emprendimiento I.E. Eleazar Libreros Salamanca
 - [Ver Proyecto](https://emprendimientoels.surge.sh/)
 
 ### Clasificador de Perros y Gatos con IA
-<img src="https://raw.githubusercontent.com/cesan51/portafolio_cesan51/refs/heads/main/assets/perro.jpg" width="200" width="200" style="border-radius: 50%;">
 - Red neuronal convolucional en Python
 - Clasificación mediante video en vivo
 - [Ver Proyecto](https://iacesan51.surge.sh)
