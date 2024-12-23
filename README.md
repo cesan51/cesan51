@@ -28,8 +28,10 @@ Desarrollador web e Ingeniero de Sistemas. Actualmente formo parte del equipo de
 - [Sitio Web](https://infinitysof.com/)
 
 ### ARSOFT
-<img src="https://raw.githubusercontent.com/cesan51/portafolio_cesan51/refs/heads/main/assets/Infinity.jpg" width="200" style="border-radius: 50%;">
-<img src="assets/arsoft.png" width="200">
+<div style="width: 200px; border-radius: 50%; overflow: hidden;">
+  <img src="https://raw.githubusercontent.com/cesan51/portafolio_cesan51/refs/heads/main/assets/arsoft.png" width="200">
+</div>
+
 - Proyecto: Sistema de Régimen Subsidiado
 - Enfoque: Administración de recursos financieros
 - Áreas: Soporte y Actualizaciones
