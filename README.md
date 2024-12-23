@@ -22,20 +22,19 @@ Desarrollador web e Ingeniero de Sistemas. Actualmente formo parte del equipo de
 
 ## Experiencia Profesional 💼
 
-### Infinity Software Innovation SAS
+| ### Infinity Software Innovation SAS
 <div style="width: 200px; border-radius: 50%; overflow: hidden;">
   <img src="https://raw.githubusercontent.com/cesan51/portafolio_cesan51/refs/heads/main/assets/Infinity.jpg" width="200">
 </div>
 - Rol: Ingeniero de Soporte y Desarrollo
-- [Sitio Web](https://infinitysof.com/)
-
-### ARSOFT
+- [Sitio Web](https://infinitysof.com/) | ### ARSOFT
 <div style="width: 200px; border-radius: 50%; overflow: hidden;">
   <img src="https://raw.githubusercontent.com/cesan51/portafolio_cesan51/refs/heads/main/assets/arsoft.png" width="200">
 </div>
 - Proyecto: Sistema de Régimen Subsidiado
 - Enfoque: Administración de recursos financieros
-- Áreas: Soporte y Actualizaciones
+- Áreas: Soporte y Actualizaciones |
+  |---|---|
 
 
 ## Proyectos Destacados 🚀
@@ -70,7 +69,7 @@ Desarrollador web e Ingeniero de Sistemas. Actualmente formo parte del equipo de
 - ![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white) +57 322 382 3977
 - ![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white) cesantonigo@gmail.com
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) [@cesan51](https://github.com/cesan51)
-- [Sitio Web] [cesan51](https://cesan51.surge.sh/)
+- [Sitio Web] [https://cesan51.surge.sh/](https://cesan51.surge.sh/)
 
 ## Currículum 📄
 [Descargar CV](https://drive.google.com/file/d/1jj0Trj7PVxd9ph-DllCpAkYaZRj2WRkc/view)
