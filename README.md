@@ -90,7 +90,6 @@
 ## Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesan51&layout=compact&theme=nightowl" alt="Lenguajes más usados" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cesan51&theme=nightowl" alt="Racha GitHub" width="45%" />
 </div>
 
