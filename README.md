@@ -24,31 +24,31 @@
 
 ---
 
-## 🚀 Mi Especialidad
+## Mi Especialidad
 
 <div style="background: #0F172A; padding: 15px; border-radius: 10px; margin: 10px 0;">
   <h3 style="color: #7DD3FC;">Transformo procesos manuales en sistemas eficientes</h3>
   <p>Desarrollo soluciones full stack para el sector público y empresarial, con:</p>
   <ul>
-    <li>✅ Reducción de tiempos de proceso hasta en <strong>60%</strong></li>
-    <li>✅ Interfaces intuitivas con <strong>Laravel Blade</strong></li>
-    <li>✅ Arquitecturas escalables en <strong>AWS</strong></li>
+    <li> Reducción de tiempos de proceso hasta en <strong>60%</strong></li>
+    <li> Interfaces intuitivas con <strong>Laravel Blade</strong></li>
+    <li> Arquitecturas escalables en <strong>AWS</strong></li>
   </ul>
 </div>
 
 ---
 
-## 💼 Experiencia Destacada
+## Experiencia Destacada
 
-### 🏢 **Infinity Software** | Full Stack Developer (2024-Presente)
+### **Infinity Software** | Full Stack Developer (2024-Presente)
 <div style="background: #0F172A; padding: 15px; border-radius: 10px; margin: 10px 0;">
   <div style="display: flex; gap: 15px; align-items: center;">
     <div style="flex: 1;">
       <h4 style="color: #7DD3FC;">Logros Clave:</h4>
       <ul>
-        <li>🏛️ Sistemas para 5+ alcaldías</li>
-        <li>⚡ Automatización de procesos críticos</li>
-        <li>📈 Dashboards interactivos</li>
+        <li> Sistemas para 5+ alcaldías</li>
+        <li> Automatización de procesos críticos</li>
+        <li> Dashboards interactivos</li>
       </ul>
     </div>
     <div style="flex: 1;">
@@ -66,16 +66,16 @@
 
 ## 🌟 Proyectos Estrella
 
-### 🏆 Sistema de Gestión Municipal - Desarrollado en Infinity Software Innovation
+### Sistema de Gestión Municipal - Desarrollado en Infinity Software Innovation
 <div style="display: flex; gap: 20px; align-items: center;">
   <div style="flex: 1;">
     <img src="https://github.com/cesan51/kaisof/blob/main/public/assets/img/projects/postulaciones.webp" alt="Proyecto" style="border-radius: 8px; widh: 600px; height:300px;" />
   </div>
   <div style="flex: 2;">
     <ul>
-      <li>🚀 Plataforma para postulaciones digitales</li>
-      <li>⏱️ Reducción de tiempos en 40%</li>
-      <li>🔍 Sistema de evaluación automatizado</li>
+      <li>Plataforma para postulaciones digitales</li>
+      <li>Reducción de tiempos en 40%</li>
+      <li>Sistema de evaluación automatizado</li>
     </ul>
     <div style="display: flex; gap: 10px; margin-top: 10px;">
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
@@ -87,7 +87,7 @@
 
 ---
 
-## 📊 Estadísticas
+## Estadísticas
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesan51&layout=compact&theme=nightowl" alt="Lenguajes más usados" width="45%" />
@@ -97,6 +97,6 @@
 ---
 
 <div align="center">
-  <h3>✨ "No solo escribo código, creo soluciones que generan impacto real" ✨</h3>
+  <h3>✨ "No solo escribo código, creo soluciones que generan impacto real"</h3>
   <img src="https://komarev.com/ghpvc/?username=cesan51&label=Profile%20views&color=0e75b6&style=flat" alt="Visitas" />
 </div>
